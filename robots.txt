@@ -1,0 +1,3 @@
+# Portal de Calidad: todo lo de adentro pide cuenta.
+User-agent: *
+Disallow: /
